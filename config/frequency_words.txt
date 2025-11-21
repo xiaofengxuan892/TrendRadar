@@ -5,6 +5,8 @@ Lora
 
 游戏
 Unity
+TGA
+金摇杆
 
 凡人修仙传
 
@@ -17,6 +19,8 @@ Unity
 天涯
 
 DeepSeek
+
+一席
 
 房地产
 房价
@@ -31,11 +35,6 @@ DJI
 
 宇树
 
-智元
-灵犀
-稚晖君
-彭志辉
-
 黑神话
 冯骥
 
@@ -45,16 +44,6 @@ DJI
 字节
 bytedance
 张一鸣
-
-特斯拉
-马斯克
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
 
 AMD
 
@@ -70,15 +59,6 @@ sora
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
-
 自动驾驶
 
 机器人
-
-科技
-
-新质生产力
