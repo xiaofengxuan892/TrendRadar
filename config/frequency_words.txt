@@ -3,6 +3,10 @@ AI绘画
 绘图模型
 Lora
 
+NanoBanana
+Banana
+提示词
+
 游戏
 Unity
 TGA
@@ -35,9 +39,6 @@ DeepSeek
 黑神话
 冯骥
 
-影之刃零
-梁其伟
-
 字节
 bytedance
 张一鸣
@@ -59,3 +60,4 @@ Anthropic
 自动驾驶
 
 机器人
+
