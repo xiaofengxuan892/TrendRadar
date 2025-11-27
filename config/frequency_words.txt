@@ -40,8 +40,6 @@ DeepSeek
 bytedance
 张一鸣
 
-AMD
-
 谷歌
 google
 gemini
